@@ -1,0 +1,75 @@
+{
+    "activeFile": "BombsLevel2f.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Basic.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Bombs.tmx": {
+            "scale": 1.007890625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.4712812960236,
+                "y": 799.1938609410124
+            }
+        },
+        "BombsLevel1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 352,
+                "y": 1280.5
+            }
+        },
+        "BombsLevel2.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320,
+                "y": 1600.5
+            }
+        },
+        "BombsLevel2f.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 227,
+                "y": 2065
+            }
+        },
+        "Ltest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/beer1/Desktop/Code/CSharp/TileSets",
+    "map.height": 176,
+    "map.lastUsedFormat": "tmx",
+    "map.renderOrder": "1",
+    "map.width": 20,
+    "openFiles": [
+        "Bombs.tmx",
+        "Basic.tsx",
+        "Ltest.tsx",
+        "BombsLevel1.tmx",
+        "BombsLevel2.tmx",
+        "BombsLevel2f.tmx"
+    ],
+    "project": "BombMassacare.tiled-project",
+    "recentFiles": [
+        "Bombs.tmx",
+        "Basic.tsx",
+        "Ltest.tsx",
+        "BombsLevel1.tmx",
+        "BombsLevel2.tmx",
+        "BombsLevel2f.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}

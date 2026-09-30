@@ -1,0 +1,3 @@
+repository "Bomb-Massacre/Bomb-Massacre@13469688500790@cloud"
+  path "/"
+    smartbranch "/main/NewBranch"
